@@ -6,7 +6,6 @@ title:      Hello 2017
 subtitle:    "\"Hello World, Hello Blog\""
 date:       2017-11-07
 author:     ZK
-header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
     - 生活
